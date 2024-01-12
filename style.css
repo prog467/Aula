@@ -29,7 +29,7 @@ body {
 }
 
 header {
-    background-image: url(imagens/sea-4768869_1280.jpg);
+    background-image: url(sea-4768869_1280.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -200,15 +200,15 @@ footer {
 }
 
 .insta {
- background-image: url(imagens/insta.png);
+ background-image: url(insta.png);
 }
 
 .youtube{
-    background-image: url(imagens/youtube.png);
+    background-image: url(youtube.png);
    }
 
 .twitter{
-    background-image: url(imagens/twitter.png);
+    background-image: url(twitter.png);
 }
 
 input {
